@@ -2,7 +2,6 @@
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
-  padding: 1em;
 }
 
 .center.ui.borderless.menu {
@@ -11,5 +10,6 @@
 }
 
 .bottom.ui.three.column.grid.container {
-  padding: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }

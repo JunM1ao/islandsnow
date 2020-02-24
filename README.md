@@ -7,3 +7,6 @@
 
 ## Part 2 Attempt
 1st - 9:28
+
+## Part 3 Attempt
+1st - 8:36
