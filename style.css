@@ -2,9 +2,14 @@
   background-color: #f7f7f7;
   box-shadow: none;
   border: none;
+  padding: 1em;
 }
 
 .center.ui.borderless.menu {
   box-shadow: none;
   border: none;
+}
+
+.bottom.ui.three.column.grid.container {
+  padding: 1em;
 }
